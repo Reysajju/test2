@@ -1,8 +1,8 @@
 {
   "name": "Bura Coin",
   "symbol": "BURA",
-  "uri": "https://raw.githubusercontent.com/username/repository/branch/metadata.json",
-  "image": "https://raw.githubusercontent.com/username/repository/branch/token_image.png",
+  "uri": "https://raw.githubusercontent.com/Reysajju/test2/3ffb619bc2af9c65ecdf9513b7c1c0d3acbd2f20/metadata.json",
+  "image": "https://raw.githubusercontent.com/Reysajju/test2/3ffb619bc2af9c65ecdf9513b7c1c0d3acbd2f20/bura.png",
   "seller_fee_basis_points": 500,
   "creators": null
 }
